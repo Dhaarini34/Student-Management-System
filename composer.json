@@ -1,0 +1,8 @@
+{
+  "name": "college/mentoring-system",
+  "description": "Student Mentoring Management System",
+  "require": {
+    "php": ">=8.0",
+    "tecnickcom/tcpdf": "^6.7"
+  }
+}
